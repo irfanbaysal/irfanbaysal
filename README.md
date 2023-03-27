@@ -1,5 +1,5 @@
 ### Hi there 👋
-- - ![](https://komarev.com/ghpvc/?username=irfanbaysal&style=flat-square)
+- ![](https://komarev.com/ghpvc/?username=irfanbaysal&style=flat-square)
 - Unity Game Developer who works at Ruby Game Studio.
 - Interested and working on mobile games especially hyper-casual and hybrid-casual
 - Here is my medium account : https://irfanbaysal.medium.com
