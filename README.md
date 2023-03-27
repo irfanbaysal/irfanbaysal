@@ -5,7 +5,8 @@
 - Here is my medium account : https://irfanbaysal.medium.com
 - Here is my LinkedIn account : https://www.linkedin.com/in/irfan-yiğit-baysal-676486144/
 
-- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanbaysal)](https://github.com/irfanbaysal/github-readme-stats&theme=dark)
+[![Irfan's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=irfanbaysal&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/irfanbaysal/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=irfanbaysal&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/irfanbaysal/github-readme-stats#gh-light-mode-only)
 
 <!--
 
