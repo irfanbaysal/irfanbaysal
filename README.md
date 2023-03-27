@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbaysal&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbaysal" /> </p>
 
-- 🔭 I’m currently working on **Ruby Game Studio**
-
 - 📝 I regularly write articles on [https://irfanbaysal.medium.com](https://irfanbaysal.medium.com)
 
 - 📫 How to reach me **irfanbaysal1997@gmail.com**
