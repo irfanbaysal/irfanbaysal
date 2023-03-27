@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **irfanbaysal1997@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/irfan-yiğit-baysal-676486144/](https://www.linkedin.com/in/irfan-yiğit-baysal-676486144/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/irfan-yiğit-baysal-676486144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-yiğit-baysal-676486144" height="30" width="40" /></a>
