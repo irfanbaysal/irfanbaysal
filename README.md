@@ -5,6 +5,7 @@
 - Here is my medium account : https://irfanbaysal.medium.com
 - Here is my LinkedIn account : https://www.linkedin.com/in/irfan-yiğit-baysal-676486144/
 
+<p align="left">
   </a>
   <a href="https://www.linkedin.com/in/codemaker2015">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
