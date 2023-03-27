@@ -3,9 +3,10 @@
 - Interested and working on mobile games especially hyper-casual and hybrid-casual
 - Here is my medium account : https://irfanbaysal.medium.com
 - Here is my LinkedIn account : https://www.linkedin.com/in/irfan-yiğit-baysal-676486144/
+- ![](https://komarev.com/ghpvc/?username=irfanbaysal&style=flat-square)
+
 <!--
 
-![](https://komarev.com/ghpvc/?username=irfanbaysal&style=flat-square)
 
 **irfanbaysal/irfanbaysal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
