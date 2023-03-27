@@ -5,7 +5,7 @@
 - Here is my medium account : https://irfanbaysal.medium.com
 - Here is my LinkedIn account : https://www.linkedin.com/in/irfan-yiğit-baysal-676486144/
 
-- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanbaysal)](https://github.com/irfanbaysal/github-readme-stats&count_private=true&theme=dark)
+- [![Irfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=irfanbaysal)](https://github.com/irfanbaysal/github-readme-stats&theme=dark)
 
 <!--
 
