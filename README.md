@@ -7,6 +7,8 @@
 
 - 📝 I regularly write articles on [https://irfanbaysal.medium.com](https://irfanbaysal.medium.com)
 
+- 📝 I would like to suggest you to check my **gists** too
+
 - 📫 How to reach me **irfanbaysal1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
