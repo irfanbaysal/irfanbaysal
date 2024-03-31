@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbaysal&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbaysal" /> </p>
 
-- 🌱 I’m currently learning **Godot Engine**
-
 - 📝 I regularly write articles on [https://irfanbaysal.medium.com](https://irfanbaysal.medium.com)
 
 - 📝 I would like to suggest you to check my **gists** too
