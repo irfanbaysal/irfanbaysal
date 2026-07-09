@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm İrfan Yiğit Baysal</h1>
-<h3 align="center">A passionate Game Developer</h3>
+<h3 align="center">Unity Game Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfanbaysal&label=Profile%20views&color=0e75b6&style=flat" alt="irfanbaysal" /> </p>
 
 - 📝 I regularly write articles on [https://irfanbaysal.medium.com](https://irfanbaysal.medium.com)
-
-- 📝 I would like to suggest you to check my **gists** too
-
-- 📫 How to reach me **irfanbaysal1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
