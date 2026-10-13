@@ -1,11 +1,24 @@
 <h1 align="center">Hi 👋, I'm İrfan Yiğit Baysal</h1>
-<h3 align="center">Unity Game Developer</h3>
 
-- 📝 I regularly write articles on [https://irfanbaysal.medium.com](https://irfanbaysal.medium.com)
+<p align="center">Unity game developer. I also build tools for Unity and Figma, and write about what I learn.</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/irfan-yiğit-baysal-676486144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="irfan-yiğit-baysal-676486144" height="30" width="40" /></a>
-<a href="https://medium.com/@irfanbaysal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@irfanbaysal" height="30" width="40" /></a>
-</p>
+## Projects
 
+<a href="https://github.com/irfanbaysal/Image-Strokes-In-Figma"><img src="https://raw.githubusercontent.com/irfanbaysal/Image-Strokes-In-Figma/main/docs/cover.png" alt="Image Strokes In Figma: an outline following the silhouette of an image" width="200" align="right"></a>
+
+**[Image Strokes In Figma](https://github.com/irfanbaysal/Image-Strokes-In-Figma)**
+A Figma plugin that outlines raster images along their alpha silhouette, as a flat image or as an editable vector stroke. Plain TypeScript, no dependencies at runtime.
+
+<br clear="right">
+
+## Writing
+
+- [Creating Dynamic UI Guide in Unity](https://irfanbaysal.medium.com/creating-dynamic-ui-guide-in-unity-8676d1007dc7)
+- [Leading AI Agents](https://irfanbaysal.medium.com/leading-ai-agents-c8a83904a12f)
+- [Reactive Programming in Unity](https://irfanbaysal.medium.com/reactive-programming-in-unity-90bb00688344)
+
+More on [Medium](https://irfanbaysal.medium.com).
+
+## Contact
+
+[LinkedIn](https://linkedin.com/in/irfan-yiğit-baysal-676486144) · [Medium](https://medium.com/@irfanbaysal)
