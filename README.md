@@ -11,6 +11,13 @@ A Figma plugin that outlines raster images along their alpha silhouette, as a fl
 
 <br clear="right">
 
+<a href="https://github.com/irfanbaysal/Recolor-Wheel-In-Figma"><img src="https://raw.githubusercontent.com/irfanbaysal/Recolor-Wheel-In-Figma/main/docs/demo.png" alt="Recolor Wheel In Figma: dragging colour dots on a hue wheel while the selection recolours live" width="200" align="right"></a>
+
+**[Recolor Wheel In Figma](https://github.com/irfanbaysal/Recolor-Wheel-In-Figma)**
+A Figma plugin that recolors a whole selection on one hue wheel: fills, strokes, gradient stops, shadows and masks, live as you drag. Plain TypeScript, no dependencies at runtime.
+
+<br clear="right">
+
 ## Writing
 
 - [Creating Dynamic UI Guide in Unity](https://irfanbaysal.medium.com/creating-dynamic-ui-guide-in-unity-8676d1007dc7)
